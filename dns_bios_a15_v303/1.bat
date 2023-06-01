@@ -1,0 +1,1 @@
+aflash3.exe /AUTO:v303.BIN /ALLBIOS /FORCE
